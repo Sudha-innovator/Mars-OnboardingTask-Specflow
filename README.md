@@ -1,5 +1,5 @@
 # MyProjects-Selenium
-My Projects in Selenium with Spec Flow framework
+Mars Project- Test Scripts in Selenium with Spec Flow framework
 
 I have added the TestCases for the Language tab in Profile details for the SkillSwap website.
 TestCase1 - Adding English language with Basic level to the language list
